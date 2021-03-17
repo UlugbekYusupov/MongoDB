@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{45A42A07-F8B9-457B-A990-9771FD94CBAD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BookAPI/Startup.cs">
+    <Files>
+      <File FileName="BookAPI/Service/BookService.cs" Line="32" Column="10" />
+      <File FileName="BookAPI/Controllers/BooksController.cs" Line="37" Column="30" />
+      <File FileName="BookAPI/Models/Book.cs" Line="4" Column="17" />
+      <File FileName="BookAPI/appsettings.json" Line="5" Column="33" />
+      <File FileName="BookAPI/Properties/launchSettings.json" Line="18" Column="8" />
+      <File FileName="BookAPI/Startup.cs" Line="39" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BookAPI" expanded="True">
+            <Node name="BookAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Service" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BookAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
